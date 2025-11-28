@@ -1,0 +1,16 @@
+# Simple CLI Calculator
+
+A beginner Python project for practicing functions, lists, strings, and command-line args. Supports add/sub/mul/div with history of last 5 results.
+
+## Features
+- Basic math: `add 4 5` → `9.0`
+- History: `python calc.py history`
+- Error handling: divide-by-zero, invalid input
+
+## Quick Start
+1. Save code as `calc.py`
+2. Run: `python calc.py add 10 2`
+3. View history: `python calc.py history`
+
+## Usage Examples
+
